@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.skip{color: darksalmon;}
+
+.sec-one{
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    background-color: bisque;
+    margin: 15px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.halfWidth{
+    width: 50%;
+}
+
+.network{
+    padding-top: 25px;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.halfWidth img{
+    width: 80%;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.aboutMe{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.half-about{
+    width: 50%;
+}
+.half-about img{
+    width: 50%;
+    padding-left: 90px;
+    margin-left: 20px;
+
+}
+.write{
+    padding-top: 100px;
+}
