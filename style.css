@@ -50,3 +50,21 @@ a{
 .write{
     padding-top: 100px;
 }
+
+.recipies{
+    text-align: center;
+    padding-bottom: 15px;
+}
+.recipiesIteam{
+    display: flex;
+    padding-left: 15px;
+}
+
+.Iteam{
+    width: 50%;
+    text-align: center;
+    border-radius: 15px;
+}
+.Iteam img{
+    width: 60%;
+}
